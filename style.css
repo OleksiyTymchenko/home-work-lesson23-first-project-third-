@@ -402,6 +402,11 @@ margin-top: 48px;
   height: 35px;
   width: 35px;
 }
+@media (min-width: 200px) and (max-width: 490px) {
+  .product .product-image{
+    width: 250px;
+  }
+}
 
 @media (min-width: 200px) and (max-width: 490px) {
   .marketers .prof-image{
@@ -462,4 +467,3 @@ ul {
 
 
 
-}
